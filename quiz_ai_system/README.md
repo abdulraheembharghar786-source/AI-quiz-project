@@ -1,8 +1,6 @@
 
 # Intelligent Quiz Application with Document-Based Question Generation and LLM Evaluation
 
-# Intelligent Quiz Application with Document-Based Question Generation and LLM Evaluation
-
 ## Overview
 
 This project is an open-source AI-based quiz system that accepts
